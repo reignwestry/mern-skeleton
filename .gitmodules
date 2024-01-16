@@ -1,0 +1,3 @@
+[submodule "mern-skeleton"]
+	path = mern-skeleton
+	url = https://github.com/reignwestry/mern-skeleton.git
